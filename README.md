@@ -1,6 +1,8 @@
 # HelloW
 This is a practice repository.
 
+![headshot](wallpapersden.com_dune-2020-cool-4k-minimalist_3840x2160.jpg)
+
 A readme.md file noften have:
 1. Proyect Title and desdcription.
 2. Prerequisites for gettin the project running on you local machine
@@ -12,3 +14,5 @@ A readme.md file noften have:
 8. The main authors or maintainers of the project.
 9. A ink to the licencse
 10. Any additional acknowledgements
+
+Add the pullrequest
